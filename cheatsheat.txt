@@ -1,0 +1,51 @@
+{"time": 100, "Text": "", "duration": 20, "ID": 1, "interaction": "mouse_over"},
+{"time": 200, "Text": "", "duration": 10, "ID": 1, "interaction": "mouse_over"},
+
+  // Draw circle  Rectangle  Line 
+   var myCircle = myCanvas.append("circle")
+						.attr("cx",100)
+						.attr("cy",100)
+						.attr("r",30)
+						.attr("fill","blue");
+						
+	var myRect = myCanvas.append("rect")
+						.attr("height", 60)
+						.attr("width", 30)
+						.attr("cx", 150)
+						.attr("cy",150)
+						.attr("fill","green");
+						
+	var myLine = myCanvas.append("line")
+						.attr("x1", 90)
+						.attr("y1",90)
+						.attr("x2",400)
+						.attr("y2",400)
+						.attr("stroke","yellow")
+						.attr("stroke-width", 10);						
+						
+						
+						
+	// Axis: Creat shift
+	
+				var myAxis = d3.axisBottom()
+					.scale(widthScaled);			
+					
+				myCanvas.append("g")
+					.attr("transform","translate(30,400)") 
+					.call(myAxis);
+
+					
+					
+	// Bar graph 
+	
+	var myBar = myCanvas.selectAll("rect")
+						.data(myArray)
+						.enter()
+							.append("rect")
+							.attr("fill", function(d) {return color(d);})
+							.attr("height", linewidth)
+							.attr("width", function(d) { return d;})
+							.attr("y",function(d,i) {  return ((i-total_intr/2)*(linewidth + clearance)) + yPos;}) // console.log(i-total_intr/2);
+							.attr("x",  function(d) { return xPos; } );
+							
+							

@@ -1,0 +1,73 @@
+<!doctype html>
+
+
+<html>
+
+<head>
+<title> Testing D3 </title>
+    
+	  <script src= "https://d3js.org/d3.v4.min.js"> </script>
+	  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js" charset="utf-8"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/mousetrap/1.4.6/mousetrap.js" charset="utf-8"></script>
+
+
+<style>
+
+
+.link {
+    fill:none;
+    stroke: #adadad;
+    stroke-width:1px;
+}
+
+
+.arc text {
+  font: 12px sans-serif;
+  text-anchor: middle;
+}
+
+.arc path {
+  stroke: #fff;
+}
+
+</style>
+	
+</head>
+
+<body>
+  
+  <p1> Select the Dataset and User Number: </p1>
+<select id="sources_dataset" name="sources_dataset">
+    <option value = 1,"Arms" selected>Arms Dealing</option>
+    <option value = 2,"Terrorist">Terrorist Activity</option>
+	<option value = 3,"Disappearance">Employees Disappearance</option>
+</select>
+
+<select id="json_sources" name="json_sources">
+    <option value ="P1" selected>P1</option>
+    <option value ="P2">P2</option>
+	<option value ="P3">P3</option>
+	<option value ="P4">P4</option>
+	<option value ="P5">P5</option>
+	<option value ="P6">P6</option>
+	<option value ="P7">P7</option>
+	<option value ="P8">P8</option>
+</select>
+
+  <button onclick="Autosegmentation()">Auto Segmentation</button>
+  <button onclick="clearRects()">Clear</button>
+  
+  	<div id="Zoom">
+<!-- <p2  style= "position: absolute;">
+   <input type="range" min="1" max="50" value = "25" id="Timescale" style="width: 500px; height: 20px; writing-mode: bt-lr; ">
+</p2> !-->
+    </div>
+	<div id="chartDiv"></div>
+	
+ 
+   <script src="./main.js"></script>
+    
+
+</body>
+
+</html>

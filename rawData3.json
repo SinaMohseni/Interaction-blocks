@@ -1,0 +1,948 @@
+[
+ {
+  "duration": 10, 
+  "Text": "Nigeria in February of 2009", 
+  "InteractionType": "Highlight", 
+  "ID": 0, 
+  "time": 11
+ }, 
+ {
+  "duration": 10, 
+  "Text": "arms", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 70
+ }, 
+ {
+  "duration": 34, 
+  "Text": "ArmsDealing68", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing68", 
+  "time": 114
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Nigeria", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 156
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Minsky", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 203
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing4", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing4", 
+  "time": 283
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing6", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing6", 
+  "time": 299
+ }, 
+ {
+  "duration": 10, 
+  "Text": " Leonid Minsky", 
+  "InteractionType": "Highlight", 
+  "ID": 0, 
+  "time": 319
+ }, 
+ {
+  "duration": 10, 
+  "Text": "gun shipments to Yemen", 
+  "InteractionType": "Highlight", 
+  "ID": 0, 
+  "time": 324
+ }, 
+ {
+  "duration": 163, 
+  "Text": "ArmsDealing72", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing72", 
+  "time": 164
+ }, 
+ {
+  "duration": 121, 
+  "Text": "ArmsDealing65", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing65", 
+  "time": 206
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Nigeria", 
+  "InteractionType": "Highlight", 
+  "ID": 0, 
+  "time": 338
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Nigeria", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 345
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing79", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing79", 
+  "time": 359
+ }, 
+ {
+  "duration": 10, 
+  "Text": " THE ENTIRE FUNDS TRANSFER WOULD STILL BE IN ITS FETUS STAGE.", 
+  "InteractionType": "Highlight", 
+  "ID": 0, 
+  "time": 391
+ }, 
+ {
+  "duration": 57, 
+  "Text": "ArmsDealing84", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing84", 
+  "time": 368
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Note", 
+  "InteractionType": "Create Note", 
+  "ID": 0, 
+  "time": 481
+ }, 
+ {
+  "duration": 75, 
+  "Text": "ArmsDealing85", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing85", 
+  "time": 427
+ }, 
+ {
+  "duration": 17, 
+  "Text": "ArmsDealing81", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing81", 
+  "time": 510
+ }, 
+ {
+  "duration": 34, 
+  "Text": "ArmsDealing85", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing85", 
+  "time": 607
+ }, 
+ {
+  "duration": 10, 
+  "Text": "TO DO THIS IT BECOMES ABSOLUTELY NECESSARY FOR US TO OFFICIALISE THE FUNDS TRANSFER PROCESS MAKING IT TAKE THE SEMBLANCE OF AN ACTUAL CONTRACT PAYMENT.", 
+  "InteractionType": "Highlight", 
+  "ID": 0, 
+  "time": 673
+ }, 
+ {
+  "duration": 115, 
+  "Text": "ArmsDealing81", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing81", 
+  "time": 642
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing81,ArmsDealing85", 
+  "InteractionType": "Connection", 
+  "ID": [
+   1, 
+   2
+  ], 
+  "time": 765
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing65,ArmsDealing72", 
+  "InteractionType": "Connection", 
+  "ID": [
+   1, 
+   2
+  ], 
+  "time": 772
+ }, 
+ {
+  "duration": 608, 
+  "Text": "ArmsDealing69", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing69", 
+  "time": 234
+ }, 
+ {
+  "duration": 10, 
+  "Text": "2009", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 863
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing56", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing56", 
+  "time": 858
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Iran", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 884
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing11", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing11", 
+  "time": 886
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing34", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing34", 
+  "time": 896
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing60", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing60", 
+  "time": 905
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing64", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing64", 
+  "time": 908
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing71", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing71", 
+  "time": 914
+ }, 
+ {
+  "duration": 10, 
+  "Text": "2009", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 931
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Kenya", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 987
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing68", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing68", 
+  "time": 992
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing101", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing101", 
+  "time": 996
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing102", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing102", 
+  "time": 1004
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing68,ArmsDealing102", 
+  "InteractionType": "Connection", 
+  "ID": [
+   3, 
+   4
+  ], 
+  "time": 1012
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Syria", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1059
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing22", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing22", 
+  "time": 1074
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing17", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing17", 
+  "time": 1083
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Lebanon", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1100
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing28", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing28", 
+  "time": 1101
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Note", 
+  "InteractionType": "Create Note", 
+  "ID": 0, 
+  "time": 1112
+ }, 
+ {
+  "duration": 30, 
+  "Text": "ArmsDealing68", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing68", 
+  "time": 1122
+ }, 
+ {
+  "duration": 152, 
+  "Text": "ArmsDealing28", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing28", 
+  "time": 1118
+ }, 
+ {
+  "duration": 215, 
+  "Text": "ArmsDealing71", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing71", 
+  "time": 1060
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing56", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing56", 
+  "time": 1276
+ }, 
+ {
+  "duration": 295, 
+  "Text": "ArmsDealing30", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing30", 
+  "time": 1019
+ }, 
+ {
+  "duration": 10, 
+  "Text": "May 2009", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1330
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Pakistan", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1350
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing52", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing52", 
+  "time": 1354
+ }, 
+ {
+  "duration": 26, 
+  "Text": "ArmsDealing52", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing52", 
+  "time": 1361
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing53", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing53", 
+  "time": 1389
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing52", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing52", 
+  "time": 1400
+ }, 
+ {
+  "duration": 19, 
+  "Text": "ArmsDealing54", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing54", 
+  "time": 1402
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Saudi Arabia,", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1427
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Saudi Arabia", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1430
+ }, 
+ {
+  "duration": 149, 
+  "Text": "ArmsDealing70", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing70", 
+  "time": 1285
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing96", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing96", 
+  "time": 1446
+ }, 
+ {
+  "duration": 39, 
+  "Text": "ArmsDealing63", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing63", 
+  "time": 1454
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Venezuela", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1497
+ }, 
+ {
+  "duration": 11, 
+  "Text": "ArmsDealing6", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing6", 
+  "time": 1498
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing90", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing90", 
+  "time": 1531
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing89", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing89", 
+  "time": 1536
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing88", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing88", 
+  "time": 1547
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing87", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing87", 
+  "time": 1551
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing88", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing88", 
+  "time": 1557
+ }, 
+ {
+  "duration": 11, 
+  "Text": "ArmsDealing89", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing89", 
+  "time": 1560
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing90", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing90", 
+  "time": 1571
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing54", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing54", 
+  "time": 1577
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing53", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing53", 
+  "time": 1581
+ }, 
+ {
+  "duration": 18, 
+  "Text": "ArmsDealing51", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing51", 
+  "time": 1582
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing25", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing25", 
+  "time": 1601
+ }, 
+ {
+  "duration": 14, 
+  "Text": "ArmsDealing25", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing25", 
+  "time": 1609
+ }, 
+ {
+  "duration": 10, 
+  "Text": "Burj", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1634
+ }, 
+ {
+  "duration": 25, 
+  "Text": "ArmsDealing25", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing25", 
+  "time": 1627
+ }, 
+ {
+  "duration": 17, 
+  "Text": "ArmsDealing29", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing29", 
+  "time": 1637
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing77", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing77", 
+  "time": 1661
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing91", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing91", 
+  "time": 1693
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing92", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing92", 
+  "time": 1696
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing93", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing93", 
+  "time": 1700
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing94", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing94", 
+  "time": 1702
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing56", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing56", 
+  "time": 1723
+ }, 
+ {
+  "duration": 10, 
+  "Text": "salah ahmed", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1732
+ }, 
+ {
+  "duration": 10, 
+  "Text": " ahmed", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1735
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ahmed", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1736
+ }, 
+ {
+  "duration": 74, 
+  "Text": "ArmsDealing8", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing8", 
+  "time": 1663
+ }, 
+ {
+  "duration": 12, 
+  "Text": "ArmsDealing29", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing29", 
+  "time": 1745
+ }, 
+ {
+  "duration": 10, 
+  "Text": "April 19th reunion in Dubai\n", 
+  "InteractionType": "Highlight", 
+  "ID": 0, 
+  "time": 1771
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing29", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing29", 
+  "time": 1779
+ }, 
+ {
+  "duration": 10, 
+  "Text": "nicolai", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1789
+ }, 
+ {
+  "duration": 10, 
+  "Text": "nikolai", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1793
+ }, 
+ {
+  "duration": 10, 
+  "Text": "nicolai", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1796
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing26", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing26", 
+  "time": 1797
+ }, 
+ {
+  "duration": 10, 
+  "Text": "the week of", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1803
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing92", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing92", 
+  "time": 1805
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing58", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing58", 
+  "time": 1826
+ }, 
+ {
+  "duration": 331, 
+  "Text": "ArmsDealing5", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing5", 
+  "time": 1512
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing88", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing88", 
+  "time": 1858
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing79", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing79", 
+  "time": 1909
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing76", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing76", 
+  "time": 1922
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing26", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing26", 
+  "time": 1927
+ }, 
+ {
+  "duration": 10, 
+  "Text": "baltasar", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 1964
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing10", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing10", 
+  "time": 1967
+ }, 
+ {
+  "duration": 47, 
+  "Text": "ArmsDealing25", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing25", 
+  "time": 1940
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing29", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing29", 
+  "time": 1991
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing10,ArmsDealing25", 
+  "InteractionType": "Connection", 
+  "ID": [
+   5, 
+   6
+  ], 
+  "time": 2001
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing25,ArmsDealing17", 
+  "InteractionType": "Connection", 
+  "ID": [
+   5, 
+   6
+  ], 
+  "time": 2002
+ }, 
+ {
+  "duration": 17, 
+  "Text": "ArmsDealing59", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing59", 
+  "time": 2031
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing83", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing83", 
+  "time": 2050
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing38", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing38", 
+  "time": 2057
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing39", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing39", 
+  "time": 2064
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing40", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing40", 
+  "time": 2070
+ }, 
+ {
+  "duration": 12, 
+  "Text": "ArmsDealing41", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing41", 
+  "time": 2078
+ }, 
+ {
+  "duration": 23, 
+  "Text": "ArmsDealing42", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing42", 
+  "time": 2090
+ }, 
+ {
+  "duration": 10, 
+  "Text": "sick", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 2120
+ }, 
+ {
+  "duration": 18, 
+  "Text": "ArmsDealing95", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing95", 
+  "time": 2124
+ }, 
+ {
+  "duration": 10, 
+  "Text": " I know with your committment to our mutual business goals you will be able to persevere through sickness for our successful meeting.", 
+  "InteractionType": "Highlight", 
+  "ID": 0, 
+  "time": 2154
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing81", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing81", 
+  "time": 2164
+ }, 
+ {
+  "duration": 60, 
+  "Text": "ArmsDealing95", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing95", 
+  "time": 2145
+ }, 
+ {
+  "duration": 14, 
+  "Text": "ArmsDealing95", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing95", 
+  "time": 2236
+ }, 
+ {
+  "duration": 10, 
+  "Text": "infection", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 2275
+ }, 
+ {
+  "duration": 10, 
+  "Text": "columbia", 
+  "InteractionType": "Search", 
+  "ID": 0, 
+  "time": 2278
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing62", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing62", 
+  "time": 2280
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing90", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing90", 
+  "time": 2294
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing70", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing70", 
+  "time": 2298
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing87", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing87", 
+  "time": 2314
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing93", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing93", 
+  "time": 2325
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing6", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing6", 
+  "time": 2333
+ }, 
+ {
+  "duration": 10, 
+  "Text": "ArmsDealing3", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing3", 
+  "time": 2370
+ }, 
+ {
+  "duration": 20, 
+  "Text": "ArmsDealing2", 
+  "InteractionType": "Doc_open", 
+  "ID": "ArmsDealing2", 
+  "time": 2377
+ }
+]
