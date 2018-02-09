@@ -10,10 +10,14 @@
 	  <script src="https://cdnjs.cloudflare.com/ajax/libs/lodash.js/3.10.1/lodash.min.js" charset="utf-8"></script>
       <script src="https://cdnjs.cloudflare.com/ajax/libs/mousetrap/1.4.6/mousetrap.js" charset="utf-8"></script>
 
-
 <style>
 
+body{
+    font-family: sans-serif; font-size: 80%; line-height: 1.2em; background: #eee;
+    /*max-width: 80%;*/
+    margin-left: 10%;
 
+}
 .link {
     fill:none;
     stroke: #adadad;
@@ -35,7 +39,7 @@
 </head>
 
 <body>
-  
+  <br>
   <p1> Select the Dataset and User Number: </p1>
 <select id="sources_dataset" name="sources_dataset">
     <option value = 1,"Arms" selected>Arms Dealing</option>
@@ -54,8 +58,8 @@
 	<option value ="P8">P8</option>
 </select>
 
-  <button onclick="Autosegmentation()">Auto Segmentation</button>
-  <button onclick="clearRects()">Clear</button>
+  <!-- <button onclick="Autosegmentation()">Auto Segmentation</button>
+  <button onclick="clearRects()">Clear</button> -->
   
   	<div id="Zoom">
 <!-- <p2  style= "position: absolute;">
